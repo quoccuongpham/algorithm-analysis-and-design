@@ -1,2 +1,5 @@
-# Ph-n-t-ch-v-thi-t-k-thu-t-to-n
-- Các thuật toán như Nhánh cận, tham ăn, quy hoạch động,...
+# Phân tích và thiết kế thuật toán
+## Các giải thuật sắp xếp
+
+## Các thuật toán
+### Nhánh cận
